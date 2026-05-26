@@ -1,6 +1,7 @@
 # 💫 About Me :
 FULL STACK DEVELOPER | BUILDING REAL-WORLD PRODUCTS & LEARNING GEN AI
 
+ 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krizznaa_16) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishna-Singh-Chauhan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishnasinghchauhan50@gmail.com) 
 
